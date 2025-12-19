@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Shivam Dhangdharia from Vadodara, GJ, IND<br><br>🔭 I’m crafting code as a Software Engineer, turning ideas into interactive digital experiences.<br><br>📚 I'm diving deep into ReactJS, sharpening my skills to build sleek, dynamic web applications.<br><br>⚡ When I’m not coding, you’ll find me on epic gaming adventures, exploring virtual worlds and conquering challenges.</p>
+<p align="left">👋 Hi, I’m Shivam Dhangdharia<br><br>🎓 MSc Artificial Intelligence student at Brunel University of London.<br><br>🤖 Aspiring AI Engineer with a strong foundation in software development<br><br>I have hands-on experience building scalable, user-friendly applications using the MERN stack (React, Node.js, Express, MongoDB), along with strong skills in JavaScript, Python, and SQL. I enjoy working across the full stack—from designing intuitive front-end interfaces to developing efficient backend systems and APIs. As I transition deeper into AI, I’m expanding my expertise in Machine Learning, Data Analytics, and Cloud-based AI solutions, combining engineering best practices with intelligent system design.<br><br>💡 I value clean, maintainable code, thrive in collaborative environments, and enjoy continuously learning new technologies.<br><br>🎮 Outside of tech, I’m passionate about gaming, which strengthens my problem-solving and strategic thinking skills.</p>
 
 ###
 
